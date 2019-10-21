@@ -16,7 +16,7 @@ const SlideItem = ({imageUrl, key, currency, label}) => {
         fontSize: '30'
 }
       
-    return (<div className="slide-item" key={key} style={styles}>
+    return (<div className="slide-item" style={styles}>
         <h1 className="label">{label}</h1>
         <h2 className="currency">current Currency: {currency}</h2>
     </div>)
