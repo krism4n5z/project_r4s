@@ -18,8 +18,8 @@ const Slide = () => {
     ];
 
     const labels = [
-        "Euro to Pound",
-        "Dolar to Franc",
+        "Pound to Euro",
+        "Franc to Dolar",
         "Dolar to Pound"
     ]
  
@@ -51,6 +51,7 @@ const Slide = () => {
        id === 2 ? setId(0) : setId(id+1);
        setTranslateValue(id * -(100));
     }
+
 
     return(
         <div className="slide">

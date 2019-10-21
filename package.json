@@ -1,6 +1,7 @@
 {
   "name": "project_ready_4s",
   "version": "0.1.0",
+  "author": "Krzysztof Mansz",
   "private": true,
   "dependencies": {
     "enzyme-adapter-react-16": "^1.15.1",
