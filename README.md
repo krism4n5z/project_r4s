@@ -7,6 +7,9 @@ Used components:
 * SlideItem- render one slide item 
 * Left Arrow, right arrow- only for making next/back steps
 
+Tests: 
+There are 1 test for mounting App (in App.test.js) and 4 smoke tests for created components to make sure are they render properly. 
+
 If you want to use transition to make changes between the slides animate please uncomment line 61 in Slide.js 
 ## Available Scripts
 
