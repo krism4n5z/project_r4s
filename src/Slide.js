@@ -3,9 +3,6 @@ import LeftArrow from './LeftArrow';
 import RightArrow from './RightArrow';
 import SlideItem from './SlideItem';
 
-
-
-
 const Slide = () => {
     const [id, setId] = useState(0);
     const [data, setData] = useState({currencies:[], isFetching:false});
