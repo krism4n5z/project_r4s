@@ -7,7 +7,7 @@ Used components:
 * SlideItem- render one slide item 
 * Left Arrow, right arrow- only for making next/back steps
 
-
+If you want to use transition to make changes between the slides animate please uncomment line 61 in Slide.js 
 ## Available Scripts
 
 In the project directory, you can run:
