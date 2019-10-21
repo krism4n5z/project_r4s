@@ -1,7 +1,13 @@
 ## Project summary
 Create an image carousel which make request for every click an get new currency value. 
 
-U
+
+
+Used components:
+* App - render background and Slide component
+* Slide - container for carousel- all the business logic inside here
+* SlideItem
+
 
 ## Available Scripts
 
